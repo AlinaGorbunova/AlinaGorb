@@ -1,0 +1,22 @@
+body{
+	background-image: url(books.jpg);
+background-size: cover;}
+
+.div1{
+	position: absolute;
+	top: 20%;
+	left: 42%;
+	background-color: white;
+	padding: 30px 80px 30px 80px;
+
+}
+
+.form{
+	position: absolute;
+	top: 28%;
+	left: 42%;
+	background-color: white;
+	padding: 20px;
+	padding-right: 91px;
+margin-top: 20px;
+}
